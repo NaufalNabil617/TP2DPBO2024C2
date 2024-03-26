@@ -27,4 +27,14 @@ Program adalah sebuah aplikasi Java GUI untuk manajemen data mahasiswa. Desain p
 # Jika data yang diisi tidak lengkap
 <img width="583" alt="Screenshot 2024-03-26 200344" src="https://github.com/NaufalNabil617/TP2DPBO2024C2/assets/147363037/eb66747d-09d8-434e-aea4-e9869de373db">
 
+# Jika ingin menambahkan data dengan nim yang sudah ada
+<img width="574" alt="Screenshot 2024-03-26 200409" src="https://github.com/NaufalNabil617/TP2DPBO2024C2/assets/147363037/e23a0159-714c-4892-93b5-20fe05c0a21a">
+
+# Mengupdate data
+<img width="526" alt="Screenshot 2024-03-26 200435" src="https://github.com/NaufalNabil617/TP2DPBO2024C2/assets/147363037/475f0785-6cae-41c7-b2cd-5bd6f71f459f">
+
+# Jika saat mengupdate ada kolom yang tidak diisi
+<img width="577" alt="Screenshot 2024-03-26 200509" src="https://github.com/NaufalNabil617/TP2DPBO2024C2/assets/147363037/7b7a5f6b-3011-478d-8397-d45c3aa42843">
+
+
 
